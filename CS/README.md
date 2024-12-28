@@ -1,2 +1,2 @@
-[Open PDF](https://github.com/triuyen/Open_Library/CS/Inside_Machine.pdf)
+[Open PDF](https://github.com/triuyen/Open_Library/blob/main/CS/Inside_Machine.pdf)
 
